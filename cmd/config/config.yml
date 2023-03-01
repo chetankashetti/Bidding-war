@@ -1,0 +1,5 @@
+app:
+  app_name: BidWarApp
+  contract_address: 0x0d292803ce1b333aa674943b3e3724fb9b2f04cf
+  node_endpoint: https://nodeapi.test.energi.network/v1/jsonrpc
+  port: 9090
